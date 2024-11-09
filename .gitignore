@@ -1,0 +1,9 @@
+.env
+node_modules
+*.mp4
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.webp
+*.json
