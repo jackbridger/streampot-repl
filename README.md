@@ -1,4 +1,4 @@
-This is a tool to test StreamPot using natural english that converts to stremapot/ffmpeg under the hood.
+This is a tool to test StreamPot using natural english that converts to StreamPot/ffmpeg under the hood.
 
 ## Prerequisites:
 - Node.js
